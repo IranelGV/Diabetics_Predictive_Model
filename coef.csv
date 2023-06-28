@@ -1,0 +1,12 @@
+independent variables,coefficients
+age,3.81859411
+hypertension,0.82206973
+heart_disease,0.65772377
+bmi,8.39239272
+HbA1c_level,12.07468894
+blood_glucose_level,6.97586151
+gender_Female,-0.17722187
+gender_Male,0.17837591
+smoking_history_current,0.07296889
+smoking_history_former,-0.02505421
+smoking_history_never,-0.04676064
