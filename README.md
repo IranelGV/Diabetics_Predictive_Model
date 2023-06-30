@@ -3,7 +3,7 @@
 Members of the group:
 1) Feras Rafeh
 2) Bruna Santos
-3) Iranel Gonzalez
+3) Iranel González
    
 We are doing a modeling project using logistic regression that predicts diabetes among patients.
 
